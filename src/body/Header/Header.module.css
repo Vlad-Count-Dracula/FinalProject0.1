@@ -1,0 +1,11 @@
+.header {
+    grid-area: header;
+    background-color: rgba(218, 171, 223, 0.733);
+    background-size: 100%;
+    margin: 20px 20px 0 20px;
+    border-radius: 5px;
+}
+
+.login {
+    color: white;
+}
